@@ -14,13 +14,13 @@
     <script>
         var allSecond = 86400;
         var lastSecond = allSecond;
-        var startTime = getStartTime();
         var blanceEle = document.querySelector('.blance');
 
         getAndSetBlace();
         setInterval(getAndSetBlace, 1000);
 
         function getAndSetBlace () {
+            var startTime = getStartTime();
             var pastSecond = parseInt((+new Date() - startTime) / 1000);
             lastSecond = allSecond - pastSecond;
             blanceEle.innerText = lastSecond;
