@@ -1,5 +1,5 @@
 # time_account
-受Jay Shetty的演讲[Before You Waste Time - WATCH THIS | by Jay Shetty](https://www.youtube.com/watch?v=vPaS85IA6oY)的影响,我创建了这个项目,希望可以在视频之后提供一些更有警示性更具有量化的东西.当然,这个项目存在的象征意义大于他的实际意义.
+受Jay Shetty的演讲[Before You Waste Time - WATCH THIS | by Jay Shetty](https://www.youtube.com/watch?v=vPaS85IA6oY)的影响,我创建了这个项目,希望可以提供一些视频之外的东西.当然,这个项目存在的象征意义大于他的实际意义.
 
 ## Before You Waste Time - WATCH THIS
 when asked “What’s the biggest mistake we make in life?”,
