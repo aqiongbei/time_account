@@ -1,6 +1,5 @@
 # time_account | 时间账户
 
-<frame src="./index.html" frameborder="0" width="100%" height="200px"></frame>
 受演讲[Before You Waste Time - WATCH THIS | by Jay Shetty](https://www.bilibili.com/video/av73218111)的启发,我创建了这个项目,希望可以提供一些视频之外的东西.
 当然,这个项目存在的象征意义大于他的实际意义.演讲原文如下:
 
