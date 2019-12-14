@@ -10,5 +10,5 @@
 
 而这个账户就是我们的时间账户。
 
-受`Jay Shetty`演讲《Before You Waste Time - WATCH THIS》（[演讲原文](../en/README.md) | [中英对照](../zh/README.md) | <a href="https://www.bilibili.com/video/av73218111" target="_blank">演讲视频</a>）的启发，我创建了这个项目，将我们的时间财富量化，希望可以提供一些视频之外的东西。
+受`Jay Shetty`演讲《Before You Waste Time - WATCH THIS》（[演讲原文](./en/README.md) | [中英对照](./zh/README.md) | <a href="https://www.bilibili.com/video/av73218111" target="_blank">演讲视频</a>）的启发，我创建了这个项目，将我们的时间财富量化，希望可以提供一些视频之外的东西。
 当然，这个项目存在的象征意义大于他的实际意义。
