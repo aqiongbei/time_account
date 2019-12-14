@@ -1,4 +1,4 @@
-中英对照 | [演讲原文](../en/README.md) | <a href="https://www.bilibili.com/video/av73218111" target="_blank">演讲视频</a>
+[演讲原文](../en/README.md) | 中英对照 | <a href="https://www.bilibili.com/video/av73218111" target="_blank">演讲视频</a>
 
 ## Before You Waste Time - WATCH THIS
 
