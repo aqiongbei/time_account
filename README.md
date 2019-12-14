@@ -1,5 +1,38 @@
-# time_account
-受Jay Shetty的演讲[Before You Waste Time - WATCH THIS | by Jay Shetty](https://www.youtube.com/watch?v=vPaS85IA6oY)的影响,我创建了这个项目,希望可以提供一些视频之外的东西.当然,这个项目存在的象征意义大于他的实际意义.演讲原文如下:
+# time_account | 时间账户
+
+<iframe src="./index.html" frameborder="0" width="100%" height="200px"></iframe>
+<div style="text-align: center">
+    <h3>你的时间账户今日还剩下：</h3>
+    <p>
+        <span class="blance" style="font-size: 90px;">86400</span>
+        <label for="" style="font-size: 50px;">S</label>
+    </p>
+    <hr>
+</div>
+<script>
+    var allSecond = 86400;
+    var lastSecond = allSecond;
+    var blanceEle = document.querySelector('.blance');
+    getAndSetBlace();
+    setInterval(getAndSetBlace, 1000);
+    function getAndSetBlace () {
+        var startTime = getStartTime();
+        var pastSecond = parseInt((+new Date() - startTime) / 1000);
+        lastSecond = allSecond - pastSecond;
+        blanceEle.innerText = lastSecond;
+    }
+    function getStartTime () {
+        var date = new Date();
+        var y = date.getFullYear();
+        var m = date.getMonth() + 1;
+        var d = date.getDate();
+        return +new Date(y + '-' + m + '-' + d + ' 00:00:00');
+    }
+</script>
+受演讲[Before You Waste Time - WATCH THIS | by Jay Shetty](https://www.bilibili.com/video/av73218111)的启发,我创建了这个项目,希望可以提供一些视频之外的东西.
+当然,这个项目存在的象征意义大于他的实际意义.演讲原文如下:
+
+英语原文 | [中文翻译](./zh/README.md)
 
 ## Before You Waste Time - WATCH THIS
 when asked “What’s the biggest mistake we make in life?”,
